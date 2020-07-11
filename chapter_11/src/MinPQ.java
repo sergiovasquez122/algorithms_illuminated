@@ -12,6 +12,10 @@ public class MinPQ <Key extends Comparable<Key>>{
         swim(N);
     }
 
+    Key peek(){
+        return pq[1];
+    }
+
     Key delMax(){
         Key key = pq[1];
         exch(1, N--);
