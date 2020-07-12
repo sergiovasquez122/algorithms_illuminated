@@ -5,23 +5,25 @@ import edu.princeton.cs.algs4.Queue;
 public class MedianMaintenance {
     public static void main(String[] args) {
         In in = new In(args[0]);
-        AVLTreeST<Integer, Integer> avltree = new AVLTreeST<>();
         Queue<Double> result = new Queue<>();
-        int k = 0;
+        MinPQ<Integer> minpq = new MinPQ<>(10);
+        MaxPQ<Integer> maxpq = new MaxPQ<>(10);
         while(!in.isEmpty()){
-            avltree.put(in.readInt(), k);
-            if(avltree.size() == 1){
-                result.enqueue((double)avltree.min());
+            minpq.insert(in.readInt());
+            maxpq.insert(minpq.delMax());
+            if(maxpq.size() > minpq.size()){
+                minpq.insert(maxpq.delMax());
             }
-            else if(avltree.size() % 2 == 1){
-                result.enqueue((double)avltree.select(k));
-            } else {
-                int kth = avltree.select(k);
-                int kth_plus_one = avltree.select(k - 1);
-                result.enqueue((kth + kth_plus_one) / 2.0);
-            }
-            k++;
+
+            double value = (maxpq.size() == minpq.size()) ? maxpq.peek() : minpq.peek();
+            result.enqueue(value);
         }
-        System.out.println(result);
+
+        double running_sum = 0;
+        for(double e : result){
+            running_sum += e;
+        }
+        System.out.println(running_sum);
+
     }
 }
