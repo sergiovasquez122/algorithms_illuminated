@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f6657964-7ffe-4b8f-8252-a47ba1f70d2a" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SCC/DirectedCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/SCC/DirectedCycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SCC/KosarajuSCC.java" beforeDir="false" afterPath="$PROJECT_DIR$/SCC/KosarajuSCC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_10/EdgeWeightedDigraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_10/EdgeWeightedDigraph.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -73,7 +72,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KosarajuSCC.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="KosarajuSCC.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SCC/KosarajuSCC.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
@@ -82,18 +81,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="large_dataset.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter_11/large_dataset.txt">
+      <file leaf-file-name="DirectedEdge.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter_10/DirectedEdge.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149985">
-              <caret line="9999" column="4" selection-start-line="9999" selection-start-column="4" selection-end-line="9999" selection-end-column="4" />
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#316#317#0" expanded="true" />
+                <element signature="e#340#341#0" expanded="true" />
+                <element signature="e#370#371#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="chapter_11.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter_11/chapter_11.iml">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="EdgeWeightedDigraph.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter_10/EdgeWeightedDigraph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+              <folding>
+                <element signature="e#377#378#0" expanded="true" />
+                <element signature="e#401#402#0" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#171#172#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="MinPQ.java" pinned="false" current-in-tab="false">
@@ -153,11 +170,14 @@
         <option value="$PROJECT_DIR$/SCC/DepthFirstOrder.java" />
         <option value="$PROJECT_DIR$/SCC/DirectedCycle.java" />
         <option value="$PROJECT_DIR$/SCC/KosarajuSCC.java" />
+        <option value="$PROJECT_DIR$/chapter_10/DirectedEdge.java" />
+        <option value="$PROJECT_DIR$/chapter_10/EdgeWeightedDigrap.java" />
+        <option value="$PROJECT_DIR$/chapter_10/EdgeWeightedDigraph.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="65" />
+    <option name="x" value="715" />
     <option name="y" value="24" />
     <option name="width" value="651" />
     <option name="height" value="744" />
@@ -167,22 +187,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="algorithms_illuminated" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="algorithms_illuminated" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -194,6 +198,15 @@
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="algorithms_illuminated" type="cbb8eebc:String" user="algorithms_illuminated" />
               <item name="algorithms_illuminated" type="cbb8eebc:String" user="algorithms_illuminated" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="chapter_10" type="cbb8eebc:String" user="chapter_10" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="chapter_10" type="cbb8eebc:String" user="chapter_10" />
+              <item name="chapter_10" type="cbb8eebc:String" user="chapter_10" />
             </path>
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
@@ -223,6 +236,22 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="algorithms_illuminated" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="algorithms_illuminated" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -234,11 +263,12 @@
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapter_10" />
+      <recent name="$PROJECT_DIR$/chapter_9" />
       <recent name="$PROJECT_DIR$/chapter_11" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/chapter_9" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/chapter_11" />
     </key>
   </component>
@@ -304,16 +334,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="651" height="744" extended-state="4" />
+    <frame x="64" y="-4" width="1303" height="773" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.57507986" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28169015" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2659409" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2544643" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -336,27 +367,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter_11/src/AVLTreeST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2520">
-          <caret line="196" selection-start-line="196" selection-end-line="196" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4597#4598#0" expanded="true" />
-            <element signature="e#4639#4640#0" expanded="true" />
-            <element signature="e#7389#7390#0" expanded="true" />
-            <element signature="e#7444#7445#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_11/large_dataset.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149985">
-          <caret line="9999" column="4" selection-start-line="9999" selection-start-column="4" selection-end-line="9999" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter_11/chapter_11.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -799,6 +809,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_10/DirectedEdge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_10/EdgeWeightedDigraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding>
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
