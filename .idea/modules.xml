@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SCC/SCC.iml" filepath="$PROJECT_DIR$/SCC/SCC.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/algorithms_illuminated.iml" filepath="$PROJECT_DIR$/.idea/algorithms_illuminated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_10/chapter_10.iml" filepath="$PROJECT_DIR$/chapter_10/chapter_10.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter_11/chapter_11.iml" filepath="$PROJECT_DIR$/chapter_11/chapter_11.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter_9/chapter_9.iml" filepath="$PROJECT_DIR$/chapter_9/chapter_9.iml" />
     </modules>
