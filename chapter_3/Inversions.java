@@ -1,3 +1,5 @@
+import edu.princeton.cs.algs4.StdOut;
+
 public class Inversions {
     private static Comparable[] aux;
 
@@ -23,8 +25,22 @@ public class Inversions {
         for(int k = lo;k <= hi;k++){
             if(i > mid) a[k] = aux[j++];
             else if(j > hi) a[k] = aux[i++];
+            else if(aux[i].compareTo(aux[j]) < 0) a[k] = aux[i++];
+            else{
+                inversions += mid - i + 1;
+                a[k] = aux[j++];
+            }
 
         }
         return inversions;
+    }
+
+    public static boolean less(Comparable u, Comparable w){
+        return u.compareTo(w) < 0;
+    }
+
+    public static void main(String[] args) {
+        Integer arr[] = {7, 6, 5, 4, 3, 2, 1};
+        StdOut.println(inversion(arr));
     }
 }
