@@ -15,6 +15,16 @@ public class Inversions {
     }
 
     public static int merge(Comparable[] a, int lo, int mid, int hi){
-        return 0;
+        int i = lo, j = mid + 1;
+        for(int k = lo;k <= hi; k++)
+            aux[k] = a[k];
+
+        int inversions = 0;
+        for(int k = lo;k <= hi;k++){
+            if(i > mid) a[k] = aux[j++];
+            else if(j > hi) a[k] = aux[i++];
+
+        }
+        return inversions;
     }
 }
