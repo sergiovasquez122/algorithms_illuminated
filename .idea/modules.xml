@@ -11,7 +11,9 @@
       <module fileurl="file://$PROJECT_DIR$/chapter_2/chapter_2.iml" filepath="$PROJECT_DIR$/chapter_2/chapter_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter_3/chapter_3.iml" filepath="$PROJECT_DIR$/chapter_3/chapter_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter_4/chapter_4.iml" filepath="$PROJECT_DIR$/chapter_4/chapter_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter_1/chapter_5.iml" filepath="$PROJECT_DIR$/chapter_1/chapter_5.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter_9/chapter_9.iml" filepath="$PROJECT_DIR$/chapter_9/chapter_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter__5/chapter__5.iml" filepath="$PROJECT_DIR$/chapter__5/chapter__5.iml" />
     </modules>
   </component>
 </project>
