@@ -10,8 +10,17 @@ public class QuickSort {
 
     }
 
+    private static int naiveChoosePivot(int A[], int l, int r){
+        return l;
+    }
+
     private static void quickSort(int A[], int l, int r){
         if(l >= r) return;
+        int i = naiveChoosePivot(A, l, r);
+        swap(A, l, i);
+        int j = partition(A, l, r);
+        quickSort(A, l, j - 1);
+        quickSort(A, j + 1, r);
     }
 
     private static int partition(int A[], int l, int r){
