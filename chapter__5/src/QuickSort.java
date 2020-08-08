@@ -1,12 +1,20 @@
 public class QuickSort {
 
-    private void swap(int A[], int i, int j){
+    private static void swap(int A[], int i, int j){
         int temp = A[i];
         A[i] = A[j];
         A[j] = temp;
     }
 
-    private int partition(int A[], int l, int r){
+    private static void sort(int A[]){
+
+    }
+
+    private static void quickSort(int A[], int l, int r){
+        if(l >= r) return;
+    }
+
+    private static int partition(int A[], int l, int r){
         int p = A[l];
         int i = l + 1;
         for(int j = l + 1;j <= r; ++j){
