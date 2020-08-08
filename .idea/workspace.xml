@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6657964-7ffe-4b8f-8252-a47ba1f70d2a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chapter_1/Karatsuba.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_1/Karatsuba.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -95,8 +96,11 @@
       <file leaf-file-name="Karatsuba.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter_1/Karatsuba.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            <state relative-caret-position="285">
+              <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -148,9 +152,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="715" />
+    <option name="x" value="65" />
     <option name="y" value="24" />
-    <option name="width" value="648" />
+    <option name="width" value="651" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectView">
@@ -158,6 +162,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="chapter_1" type="cbb8eebc:String" user="chapter_1" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="chapter_1" type="cbb8eebc:String" user="chapter_1" />
+              <item name="chapter_1" type="cbb8eebc:String" user="chapter_1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -169,96 +190,6 @@
               <item name="algorithms_illuminated" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="algorithms_illuminated" type="cbb8eebc:String" user="algorithms_illuminated" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="chapter_1" type="cbb8eebc:String" user="chapter_1" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="chapter_1" type="cbb8eebc:String" user="chapter_1" />
-              <item name="chapter_1" type="cbb8eebc:String" user="chapter_1" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="chapter_10" type="cbb8eebc:String" user="chapter_10" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="chapter_10" type="cbb8eebc:String" user="chapter_10" />
-              <item name="chapter_10" type="cbb8eebc:String" user="chapter_10" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="chapter_11" type="cbb8eebc:String" user="chapter_11" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="chapter_11" type="cbb8eebc:String" user="chapter_11" />
-              <item name="chapter_11" type="cbb8eebc:String" user="chapter_11" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="chapter_11" type="cbb8eebc:String" user="chapter_11" />
-              <item name="chapter_11" type="cbb8eebc:String" user="chapter_11" />
-              <item name="src" type="cbb8eebc:String" user="src" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="chapter_12" type="cbb8eebc:String" user="chapter_12" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="chapter_12" type="cbb8eebc:String" user="chapter_12" />
-              <item name="chapter_12" type="cbb8eebc:String" user="chapter_12" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="chapter_2" type="cbb8eebc:String" user="chapter_2" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="chapter_2" type="cbb8eebc:String" user="chapter_2" />
-              <item name="chapter_2" type="cbb8eebc:String" user="chapter_2" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="chapter_3" type="cbb8eebc:String" user="chapter_3" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="chapter_3" type="cbb8eebc:String" user="chapter_3" />
-              <item name="chapter_3" type="cbb8eebc:String" user="chapter_3" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="chapter_4" type="cbb8eebc:String" user="chapter_4" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="chapter_4" type="cbb8eebc:String" user="chapter_4" />
-              <item name="chapter_4" type="cbb8eebc:String" user="chapter_4" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="SCC" type="cbb8eebc:String" user="SCC" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="SCC" type="cbb8eebc:String" user="SCC" />
-              <item name="SCC" type="cbb8eebc:String" user="SCC" />
             </path>
           </expand>
           <select />
@@ -297,10 +228,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Inversions">
+  <component name="RunManager" selected="Application.Karatsuba">
     <configuration name="Inversions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Inversions" />
       <module name="chapter_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Karatsuba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Karatsuba" />
+      <module name="chapter_1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="MedianMaintenance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -335,9 +271,11 @@
     <list>
       <item itemvalue="Application.MedianMaintenance" />
       <item itemvalue="Application.Inversions" />
+      <item itemvalue="Application.Karatsuba" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Karatsuba" />
         <item itemvalue="Application.Inversions" />
         <item itemvalue="Application.MedianMaintenance" />
       </list>
@@ -357,25 +295,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="715" y="24" width="648" height="744" extended-state="4" />
+    <frame x="65" y="24" width="651" height="744" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29695025" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07507987" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32738096" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4214619" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2534992" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.24255952" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39880952" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4047619" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32738096" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39880952" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -386,7 +324,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="7" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -745,8 +683,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter_1/Karatsuba.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        <state relative-caret-position="285">
+          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
