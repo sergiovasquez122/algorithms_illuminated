@@ -10,17 +10,30 @@ public class QuickSort {
 
     }
 
-    private static int naiveChoosePivot(int A[], int l, int r){
+    private static int alwaysFirst(int A[], int l, int r){
         return l;
     }
 
-    private static void quickSort(int A[], int l, int r){
+    private static int alwaysLast(int A[], int l, int r){
+        return r;
+    }
+
+    private static void quickSort1(int A[], int l, int r){
         if(l >= r) return;
-        int i = naiveChoosePivot(A, l, r);
+        int i = alwaysFirst(A, l, r);
         swap(A, l, i);
         int j = partition(A, l, r);
-        quickSort(A, l, j - 1);
-        quickSort(A, j + 1, r);
+        quickSort1(A, l, j - 1);
+        quickSort1(A, j + 1, r);
+    }
+
+    private static void quickSort2(int A[], int l, int r){
+        if(l >= r) return;
+        int i = alwaysLast(A, l, r);
+        swap(A, l, i);
+        int j = partition(A, l, r);
+        quickSort2(A, l, r);
+        quickSort2(A, j + 1, r);
     }
 
     private static int partition(int A[], int l, int r){
