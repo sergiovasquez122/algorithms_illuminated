@@ -52,6 +52,6 @@ public class RSelect {
         for(int i : array){
             A[counter++] = i;
         }
-        StdOut.println(kth_smallest(A, 1));
+        StdOut.println(kth_smallest(A, 50));
     }
 }

@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6657964-7ffe-4b8f-8252-a47ba1f70d2a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chapter_6/src/RSelect.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_6/src/RSelect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/chapter_6/RSelect.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/chapter_6/RSelect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/chapter_6/dataset_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/production/chapter_6/dataset_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/chapter_6/dataset_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/production/chapter_6/dataset_2.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -104,8 +106,8 @@
       <file leaf-file-name="RSelect.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter_6/src/RSelect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+            <state relative-caret-position="187">
+              <caret line="54" column="41" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -115,12 +117,20 @@
       </file>
       <file leaf-file-name="dataset_1.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter_6/src/dataset_1.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="dataset_2.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter_6/src/dataset_2.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="99" column="4" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="4" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -165,6 +175,8 @@
         <option value="$PROJECT_DIR$/chapter__5/src/QuickSort3.java" />
         <option value="$PROJECT_DIR$/chapter__5/src/QuickSort2.java" />
         <option value="$PROJECT_DIR$/chapter__5/src/QuickSort1.java" />
+        <option value="$PROJECT_DIR$/chapter_6/src/dataset_1.txt" />
+        <option value="$PROJECT_DIR$/chapter_6/src/dataset_2.txt" />
         <option value="$PROJECT_DIR$/chapter_6/src/RSelect.java" />
       </list>
     </option>
@@ -298,7 +310,7 @@
     <configuration name="RSelect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RSelect" />
       <module name="chapter_6" />
-      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/chapter_6/src/dataset_1.txt" />
+      <option name="PROGRAM_PARAMETERS" value="dataset_2.txt" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -355,21 +367,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-4" width="1303" height="773" extended-state="6" />
+    <frame x="715" y="24" width="651" height="744" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.79795396" visible="true" weight="0.24647887" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7963917" visible="true" weight="0.50319487" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32738096" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41815478" />
-      <window_info id="Structure" order="1" sideWeight="0.20204604" side_tool="true" visible="true" weight="0.24647887" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43701398" />
+      <window_info id="Structure" order="1" sideWeight="0.20360824" side_tool="true" visible="true" weight="0.50319487" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.23065476" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39732143" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39657855" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -397,8 +409,14 @@
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapter_6/src/RSelect.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="10" />
+      <option name="time" value="11" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -721,12 +739,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_6/src/dataset_2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_6/src/dataset_1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter__5/src/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -760,10 +772,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_6/src/dataset_1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_6/src/dataset_2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="99" column="4" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter_6/src/RSelect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        <state relative-caret-position="187">
+          <caret line="54" column="41" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
