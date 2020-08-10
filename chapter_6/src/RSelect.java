@@ -1,8 +1,11 @@
+import edu.princeton.cs.algs4.In;
+import edu.princeton.cs.algs4.Queue;
+import edu.princeton.cs.algs4.StdOut;
 import edu.princeton.cs.algs4.StdRandom;
 
 public class RSelect {
 
-    private int kth_smallest(int[] A, int k){
+    private static int kth_smallest(int[] A, int k){
         int left = 0, right = A.length - 1;
         while(left <= right){
             int pivot = StdRandom.uniform(left, right + 1);
@@ -39,6 +42,16 @@ public class RSelect {
     }
 
     public static void main(String[] args) {
-
+        In in = new In(args[0]);
+        Queue<Integer> array = new Queue<>();
+        while(!in.isEmpty()){
+            array.enqueue(in.readInt());
+        }
+        int[] A = new int[array.size()];
+        int counter = 0;
+        for(int i : array){
+            A[counter++] = i;
+        }
+        StdOut.println(kth_smallest(A, 1));
     }
 }
