@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6657964-7ffe-4b8f-8252-a47ba1f70d2a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/chapter__5/src/QuickSort1.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter__5/src/QuickSort1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter__5/src/QuickSort2.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter__5/src/QuickSort2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter__5/src/QuickSort3.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter__5/src/QuickSort3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter__5/src/dataset3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chapter__5/src/dataset3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -111,8 +108,8 @@
       <file leaf-file-name="QuickSort1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter__5/src/QuickSort1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+            <state relative-caret-position="156">
+              <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#83#84#0" expanded="true" />
@@ -178,11 +175,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="324" />
-    <option name="y" value="37" />
-    <option name="width" value="653" />
-    <option name="height" value="773" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="715" />
+    <option name="y" value="24" />
+    <option name="width" value="651" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -199,18 +196,12 @@
             <path>
               <item name="algorithms_illuminated" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithms_illuminated" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_10" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithms_illuminated" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithms_illuminated" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter__5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithms_illuminated" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms_illuminated" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter__5" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_7" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -270,7 +261,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QuickSort4">
+  <component name="RunManager" selected="Application.QuickSort1">
     <configuration name="Karatsuba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Karatsuba" />
       <module name="chapter_1" />
@@ -279,7 +270,8 @@
     <configuration name="QuickSort1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="QuickSort1" />
       <module name="chapter__5" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PROGRAM_PARAMETERS" value="dataset2.txt" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
     </configuration>
     <configuration name="QuickSort2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="QuickSort2" />
@@ -329,10 +321,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort1" />
         <item itemvalue="Application.QuickSort4" />
         <item itemvalue="Application.QuickSort3" />
         <item itemvalue="Application.QuickSort2" />
-        <item itemvalue="Application.QuickSort1" />
         <item itemvalue="Application.Karatsuba" />
       </list>
     </recent_temporary>
@@ -351,19 +343,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-4" width="1303" height="773" extended-state="6" />
-    <editor active="true" />
+    <frame x="715" y="24" width="651" height="744" extended-state="4" />
     <layout>
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4948718" visible="true" weight="0.10250391" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8983957" visible="true" weight="0.49840257" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32738096" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41964287" />
-      <window_info id="Structure" order="1" sideWeight="0.5051282" side_tool="true" visible="true" weight="0.10250391" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23065476" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41835147" />
+      <window_info id="Structure" order="1" sideWeight="0.101604275" side_tool="true" visible="true" weight="0.49840257" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.24105754" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39732143" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -753,8 +744,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter__5/src/QuickSort1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+        <state relative-caret-position="156">
+          <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#83#84#0" expanded="true" />
