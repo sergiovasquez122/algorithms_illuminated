@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6657964-7ffe-4b8f-8252-a47ba1f70d2a" name="Default" comment="" />
+    <list default="true" id="f6657964-7ffe-4b8f-8252-a47ba1f70d2a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/chapter_6/src/RSelect.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,18 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Karatsuba.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter_1/Karatsuba.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter__5/src/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -103,7 +93,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QuickSort1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="QuickSort1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter__5/src/QuickSort1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="382">
@@ -115,6 +105,15 @@
                 <element signature="e#186#187#0" expanded="true" />
                 <element signature="e#210#211#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RSelect.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter_6/src/RSelect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="20" selection-start-column="20" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -199,6 +198,12 @@
             <path>
               <item name="algorithms_illuminated" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithms_illuminated" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms_illuminated" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms_illuminated" type="462c0819:PsiDirectoryNode" />
               <item name="chapter_7" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -236,15 +241,15 @@
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapter_11" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapter_6" />
       <recent name="$PROJECT_DIR$/chapter__5" />
       <recent name="$PROJECT_DIR$/chapter_4" />
       <recent name="$PROJECT_DIR$/chapter_3" />
       <recent name="$PROJECT_DIR$/chapter_2" />
-      <recent name="$PROJECT_DIR$/chapter_12" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/chapter_11" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -342,17 +347,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="715" y="24" width="651" height="744" extended-state="4" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.9221311" visible="true" weight="0.49840257" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.83811474" visible="true" weight="0.49840257" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32738096" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.41835147" />
-      <window_info id="Structure" order="1" sideWeight="0.07786885" side_tool="true" visible="true" weight="0.49840257" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.24105754" />
+      <window_info id="Structure" order="1" sideWeight="0.16188525" side_tool="true" visible="true" weight="0.49840257" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.24105754" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39732143" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -381,13 +387,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter_11/src/MedianMaintenance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter_11/src/AVLTreeST.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2520">
@@ -751,6 +750,13 @@
             <element signature="e#186#187#0" expanded="true" />
             <element signature="e#210#211#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_6/src/RSelect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
         </state>
       </provider>
     </entry>
