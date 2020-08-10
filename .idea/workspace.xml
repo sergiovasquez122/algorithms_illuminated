@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6657964-7ffe-4b8f-8252-a47ba1f70d2a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter_6/src/RSelect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_6/src/RSelect.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_6/src/RSelect.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,8 +16,8 @@
       <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter__5/src/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="53" column="47" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="47" />
+            <state relative-caret-position="345">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -112,8 +112,8 @@
       <file leaf-file-name="RSelect.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter_6/src/RSelect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="20" selection-start-column="20" selection-end-column="20" />
+            <state relative-caret-position="435">
+              <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -169,6 +169,7 @@
         <option value="$PROJECT_DIR$/chapter__5/src/QuickSort3.java" />
         <option value="$PROJECT_DIR$/chapter__5/src/QuickSort2.java" />
         <option value="$PROJECT_DIR$/chapter__5/src/QuickSort1.java" />
+        <option value="$PROJECT_DIR$/chapter_6/src/RSelect.java" />
       </list>
     </option>
   </component>
@@ -205,6 +206,17 @@
               <item name="algorithms_illuminated" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithms_illuminated" type="462c0819:PsiDirectoryNode" />
               <item name="chapter_7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms_illuminated" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms_illuminated" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter__5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms_illuminated" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms_illuminated" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter__5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -350,14 +362,14 @@
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.83811474" visible="true" weight="0.49840257" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.83811474" visible="true" weight="0.50319487" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32738096" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.41835147" />
-      <window_info id="Structure" order="1" sideWeight="0.16188525" side_tool="true" visible="true" weight="0.49840257" />
+      <window_info id="Structure" order="1" sideWeight="0.16188525" side_tool="true" visible="true" weight="0.50319487" />
       <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.24105754" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39732143" />
@@ -706,13 +718,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter__5/src/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="53" column="47" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter__5/src/QuickSort3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -753,10 +758,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chapter__5/src/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter_6/src/RSelect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        <state relative-caret-position="435">
+          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
         </state>
       </provider>
     </entry>

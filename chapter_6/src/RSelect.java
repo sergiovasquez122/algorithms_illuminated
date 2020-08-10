@@ -1,4 +1,24 @@
+import edu.princeton.cs.algs4.StdRandom;
+
 public class RSelect {
+
+    private int kth_smallest(int[] A, int k){
+        int left = 0, right = A.length - 1;
+        while(left <= right){
+            int pivot = StdRandom.uniform(left, right + 1);
+            swap(A, left, pivot);
+            int j = partition(A, left, right);
+            if(j == k - 1){
+                return A[pivot];
+            } else if(j < k - 1) {
+                left = j + 1;
+            } else{
+                right = j - 1;
+            }
+        }
+        return -1;
+    }
+
     private static int partition(int A[], int l, int r){
         int p = A[l];
         int i = l + 1;
@@ -16,5 +36,9 @@ public class RSelect {
         int temp = A[i];
         A[i] = A[j];
         A[j] = temp;
+    }
+
+    public static void main(String[] args) {
+
     }
 }
