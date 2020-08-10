@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6657964-7ffe-4b8f-8252-a47ba1f70d2a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f6657964-7ffe-4b8f-8252-a47ba1f70d2a" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +106,7 @@
       <file leaf-file-name="QuickSort1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter__5/src/QuickSort1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
+            <state relative-caret-position="382">
               <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -346,15 +344,15 @@
     <frame x="715" y="24" width="651" height="744" extended-state="4" />
     <layout>
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8983957" visible="true" weight="0.49840257" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.9221311" visible="true" weight="0.49840257" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32738096" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41835147" />
-      <window_info id="Structure" order="1" sideWeight="0.101604275" side_tool="true" visible="true" weight="0.49840257" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.24105754" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41835147" />
+      <window_info id="Structure" order="1" sideWeight="0.07786885" side_tool="true" visible="true" weight="0.49840257" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.24105754" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39732143" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -744,7 +742,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter__5/src/QuickSort1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
+        <state relative-caret-position="382">
           <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
