@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6657964-7ffe-4b8f-8252-a47ba1f70d2a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/chapter_6/src/RSelect.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_6/src/RSelect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/chapter_6/RSelect.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/chapter_6/RSelect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/chapter_6/dataset_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/production/chapter_6/dataset_1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/chapter_6/dataset_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/production/chapter_6/dataset_2.txt" afterDir="false" />
-    </list>
+    <list default="true" id="f6657964-7ffe-4b8f-8252-a47ba1f70d2a" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +101,7 @@
       <file leaf-file-name="RSelect.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter_6/src/RSelect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="810">
               <caret line="54" column="41" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -182,7 +177,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="715" />
+    <option name="x" value="65" />
     <option name="y" value="24" />
     <option name="width" value="651" />
     <option name="height" value="744" />
@@ -367,21 +362,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="715" y="24" width="651" height="744" extended-state="4" />
-    <editor active="true" />
+    <frame x="65" y="24" width="651" height="744" extended-state="4" />
     <layout>
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7963917" visible="true" weight="0.50319487" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.83811474" visible="true" weight="0.50319487" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32738096" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43701398" />
-      <window_info id="Structure" order="1" sideWeight="0.20360824" side_tool="true" visible="true" weight="0.50319487" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23065476" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41815478" />
+      <window_info id="Structure" order="1" sideWeight="0.16188525" side_tool="true" visible="true" weight="0.50319487" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.24105754" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39657855" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39657855" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -402,12 +396,6 @@
           <line>60</line>
           <properties />
           <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/chapter_6/src/RSelect.java</url>
-          <line>9</line>
-          <properties />
-          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/chapter_6/src/RSelect.java</url>
@@ -788,7 +776,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter_6/src/RSelect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="810">
           <caret line="54" column="41" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
