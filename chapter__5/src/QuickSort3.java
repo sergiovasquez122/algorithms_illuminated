@@ -1,3 +1,5 @@
+import edu.princeton.cs.algs4.In;
+import edu.princeton.cs.algs4.Queue;
 import edu.princeton.cs.algs4.StdOut;
 import edu.princeton.cs.algs4.StdRandom;
 
@@ -39,7 +41,16 @@ public class QuickSort3 {
     }
 
     public static void main(String[] args) {
-        int[] A = {2148, 9058, 7742, 3153, 6324, 609, 7628, 5469, 7017, 504};
-        StdOut.println(sort(A));
-    }
+            In in = new In(args[0]);
+            Queue<Integer> array = new Queue<>();
+            while(!in.isEmpty()){
+                array.enqueue(in.readInt());
+            }
+            int[] A = new int[array.size()];
+            int counter = 0;
+            for(int i : array){
+                A[counter++] = i;
+            }
+            StdOut.println(sort(A));
+        }
 }
