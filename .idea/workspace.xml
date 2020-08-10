@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6657964-7ffe-4b8f-8252-a47ba1f70d2a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter__5/src/QuickSort4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter__5/src/QuickSort4.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter__5/src/QuickSort4.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -97,9 +97,10 @@
       <file leaf-file-name="QuickSort4.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter__5/src/QuickSort4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+            <state relative-caret-position="420">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#188#189#0" expanded="true" />
                 <element signature="e#240#241#0" expanded="true" />
               </folding>
@@ -345,21 +346,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-4" width="1303" height="773" extended-state="6" />
+    <frame x="715" y="24" width="651" height="744" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49607843" visible="true" weight="0.10250391" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49590164" visible="true" weight="0.20926517" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32738096" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40279937" />
-      <window_info id="Structure" order="1" sideWeight="0.50392157" side_tool="true" visible="true" weight="0.10250391" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.24107143" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41990668" />
+      <window_info id="Structure" order="1" sideWeight="0.50409836" side_tool="true" visible="true" weight="0.20926517" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.24105754" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39813375" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39732143" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -381,8 +382,14 @@
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapter__5/src/QuickSort4.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="8" />
+      <option name="time" value="9" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -747,9 +754,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter__5/src/QuickSort4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        <state relative-caret-position="420">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#188#189#0" expanded="true" />
             <element signature="e#240#241#0" expanded="true" />
           </folding>
