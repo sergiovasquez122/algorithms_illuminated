@@ -250,9 +250,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GreedyDiff">
+  <component name="RunManager" selected="Application.GreedyRatio">
     <configuration name="GreedyDiff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GreedyDiff" />
+      <module name="chapter_13" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/chapter_13/dataset1.txt" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="GreedyRatio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GreedyRatio" />
       <module name="chapter_13" />
       <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/chapter_13/dataset1.txt" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -262,11 +268,6 @@
       <module name="chapter__5" />
       <option name="PROGRAM_PARAMETERS" value="dataset2.txt" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="QuickSort3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QuickSort3" />
-      <module name="chapter__5" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="QuickSort4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="QuickSort4" />
@@ -305,18 +306,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.QuickSort1" />
-      <item itemvalue="Application.QuickSort3" />
       <item itemvalue="Application.QuickSort4" />
       <item itemvalue="Application.RSelect" />
       <item itemvalue="Application.GreedyDiff" />
+      <item itemvalue="Application.GreedyRatio" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GreedyRatio" />
         <item itemvalue="Application.GreedyDiff" />
         <item itemvalue="Application.RSelect" />
         <item itemvalue="Application.QuickSort1" />
         <item itemvalue="Application.QuickSort4" />
-        <item itemvalue="Application.QuickSort3" />
       </list>
     </recent_temporary>
   </component>
