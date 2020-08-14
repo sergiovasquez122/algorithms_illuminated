@@ -193,11 +193,15 @@
               <item name="chapter_13" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithms_illuminated" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms_illuminated" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_14" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -218,6 +222,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -339,12 +344,12 @@
     <frame x="65" y="24" width="651" height="744" extended-state="4" />
     <layout>
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.82902586" visible="true" weight="0.24600638" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.82703775" visible="true" weight="0.24600638" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info id="Structure" order="1" sideWeight="0.17097415" side_tool="true" visible="true" weight="0.24600638" />
+      <window_info id="Structure" order="1" sideWeight="0.17296223" side_tool="true" visible="true" weight="0.24600638" />
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.21772939" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
