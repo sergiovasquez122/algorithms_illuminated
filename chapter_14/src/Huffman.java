@@ -43,9 +43,10 @@ public class Huffman {
     public static void main(String[] args) {
         In in = new In(args[0]);
         MinPQ<Node> minPQ = new MinPQ<>(in.readInt());
+        int counter = 0;
         while(!in.isEmpty()){
             int value = in.readInt();
-            minPQ.insert(new Node(value, value, null, null)); // using the weight both as the symbol and as the frequency
+            minPQ.insert(new Node(counter++, value, null, null)); // using the weight both as the symbol and as the frequency
         }
         while(minPQ.size() > 1){
             Node left = minPQ.delMin();
