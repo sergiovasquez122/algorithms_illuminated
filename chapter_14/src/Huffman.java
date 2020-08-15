@@ -1,0 +1,2 @@
+public class Huffman {
+}
