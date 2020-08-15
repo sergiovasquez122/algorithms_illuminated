@@ -47,11 +47,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dataset1.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dataset1.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter_14/dataset1.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Huffman.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter_14/src/Huffman.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="20" selection-start-column="20" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -82,15 +91,6 @@
       <file leaf-file-name="dataset2.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter_13/dataset2.txt">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="dataset_1.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter_6/src/dataset_1.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-            </state>
-          </provider>
         </entry>
       </file>
       <file leaf-file-name="dataset_2.txt" pinned="false" current-in-tab="false">
@@ -209,6 +209,12 @@
               <item name="algorithms_illuminated" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithms_illuminated" type="462c0819:PsiDirectoryNode" />
               <item name="chapter_14" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms_illuminated" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms_illuminated" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_14" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -334,16 +340,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="651" height="744" extended-state="4" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.82306165" visible="true" weight="0.24600638" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.82306165" visible="true" weight="0.24600638" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" sideWeight="0.17693837" side_tool="true" visible="true" weight="0.24600638" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.21772939" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.21772939" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -374,13 +379,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter_11/large_dataset.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149985">
-          <caret line="9999" column="4" selection-start-line="9999" selection-start-column="4" selection-end-line="9999" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter_11/chapter_11.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -731,6 +729,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_14/src/Huffman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
         </state>
       </provider>
     </entry>
