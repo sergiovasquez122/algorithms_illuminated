@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6657964-7ffe-4b8f-8252-a47ba1f70d2a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f6657964-7ffe-4b8f-8252-a47ba1f70d2a" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,8 +71,8 @@
       <file leaf-file-name="GreedyRatio.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter_13/src/GreedyRatio.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+            <state relative-caret-position="195">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -235,15 +233,15 @@
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/chapter_11" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/chapter_14" />
       <recent name="$PROJECT_DIR$/chapter_13" />
       <recent name="$PROJECT_DIR$/chapter_6" />
       <recent name="$PROJECT_DIR$/chapter__5" />
       <recent name="$PROJECT_DIR$/chapter_4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapter_11" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -739,8 +737,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter_13/src/GreedyRatio.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        <state relative-caret-position="195">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
