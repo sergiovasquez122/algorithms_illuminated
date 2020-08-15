@@ -46,7 +46,7 @@ public class Huffman {
         int counter = 0;
         while(!in.isEmpty()){
             int value = in.readInt();
-            minPQ.insert(new Node(counter++, value, null, null)); // using the weight both as the symbol and as the frequency
+            minPQ.insert(new Node(counter++, value, null, null));
         }
         while(minPQ.size() > 1){
             Node left = minPQ.delMin();
@@ -61,6 +61,6 @@ public class Huffman {
             maxLength = Integer.max(maxLength, st.get(key).length());
         }
         StdOut.println("Min length encoding: " + minLength);
-        StdOut.println("Max lenght encoding: " + maxLength);
+        StdOut.println("Max length encoding: " + maxLength);
     }
 }

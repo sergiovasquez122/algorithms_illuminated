@@ -164,8 +164,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="342" />
-    <option name="y" value="207" />
+    <option name="x" value="295" />
+    <option name="y" value="61" />
     <option name="width" value="652" />
     <option name="height" value="737" />
   </component>
@@ -277,7 +277,7 @@
     <configuration name="Huffman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Huffman" />
       <module name="chapter_14" />
-      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/chapter_14/dataset1.txt" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/chapter_14/dataset3.txt" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/chapter_14/" />
     </configuration>
     <configuration name="QuickSort1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
