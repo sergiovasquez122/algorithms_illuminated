@@ -22,5 +22,4 @@ public class Huffman {
             return Integer.compare(freq, o.freq);
         }
     }
-
 }
