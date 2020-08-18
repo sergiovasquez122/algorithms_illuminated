@@ -1,3 +1,4 @@
+import edu.princeton.cs.algs4.Bag;
 import edu.princeton.cs.algs4.IndexMinPQ;
 
 public class PrimMST {
@@ -18,6 +19,13 @@ public class PrimMST {
         pq.insert(0, 0.0);
         while(!pq.isEmpty())
             visit(G, pq.delMin());
+    }
+
+    public Iterable<Edge> edges(){
+        Bag<Edge> mst = new Bag<>();
+        for(int v = 1;v < edgeTo.length; v++)
+            mst.add(edgeTo[v]);
+        return mst;
     }
 
     private void visit(EdgeWeightedGraph G, int v){
