@@ -6,11 +6,13 @@ public class PrimMST {
     private double[] distTo;
     private boolean[] marked;
     private IndexMinPQ<Double> pq;
+    private double weight;
 
     public PrimMST(EdgeWeightedGraph G){
         edgeTo = new Edge[G.V()];
         distTo = new double[G.V()];
         marked = new boolean[G.V()];
+        weight = 0;
         for(int v = 0;v < G.V();v++)
             distTo[v] = Double.POSITIVE_INFINITY;
         pq = new IndexMinPQ<>(G.V());
@@ -19,13 +21,22 @@ public class PrimMST {
         pq.insert(0, 0.0);
         while(!pq.isEmpty())
             visit(G, pq.delMin());
+
+        for(int v = 1;v < edgeTo.length; v++) {
+            weight += edgeTo[v].weight();
+        }
     }
 
     public Iterable<Edge> edges(){
         Bag<Edge> mst = new Bag<>();
-        for(int v = 1;v < edgeTo.length; v++)
+        for(int v = 1;v < edgeTo.length; v++) {
             mst.add(edgeTo[v]);
+        }
         return mst;
+    }
+
+    public double weight(){
+        return weight;
     }
 
     private void visit(EdgeWeightedGraph G, int v){
