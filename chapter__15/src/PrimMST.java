@@ -1,5 +1,7 @@
 import edu.princeton.cs.algs4.Bag;
+import edu.princeton.cs.algs4.In;
 import edu.princeton.cs.algs4.IndexMinPQ;
+import edu.princeton.cs.algs4.StdOut;
 
 public class PrimMST {
     private Edge[] edgeTo;
@@ -51,5 +53,18 @@ public class PrimMST {
                 else pq.insert(w, distTo[w]);
             }
         }
+    }
+
+    public static void main(String[] args) {
+        In in = new In(args[0]);
+        int V = in.readInt(), E = in.readInt();
+        EdgeWeightedGraph G = new EdgeWeightedGraph(V);
+        for(int i = 0;i < E;i++){
+            int v = in.readInt() - 1, w = in.readInt() - 1;
+            double weight = in.readDouble();
+            G.addEdge(new Edge(v, w, weight));
+        }
+        PrimMST primMST = new PrimMST(G);
+        StdOut.println("Edge weight cost: " + primMST.weight());
     }
 }

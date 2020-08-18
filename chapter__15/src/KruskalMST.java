@@ -1,6 +1,4 @@
-import edu.princeton.cs.algs4.MinPQ;
-import edu.princeton.cs.algs4.Queue;
-import edu.princeton.cs.algs4.UF;
+import edu.princeton.cs.algs4.*;
 
 public class KruskalMST {
     private Queue<Edge> mst;
@@ -31,4 +29,18 @@ public class KruskalMST {
     public double weight(){
         return weight;
     }
+
+    public static void main(String[] args) {
+        In in = new In(args[0]);
+        int V = in.readInt(), E = in.readInt();
+        EdgeWeightedGraph G = new EdgeWeightedGraph(V);
+        for(int i = 0;i < E;i++){
+            int v = in.readInt() - 1, w = in.readInt() - 1;
+            double weight = in.readDouble();
+            G.addEdge(new Edge(v, w, weight));
+        }
+        KruskalMST kruskalMST = new KruskalMST(G);
+        StdOut.println("Edge weight cost: " + kruskalMST.weight());
+    }
+
 }
