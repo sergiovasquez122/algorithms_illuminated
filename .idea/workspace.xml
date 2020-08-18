@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6657964-7ffe-4b8f-8252-a47ba1f70d2a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/chapter__15/src/timing_test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter__15/src/PrimMST.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter__15/src/PrimMST.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -78,11 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrimMST.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PrimMST.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter__15/src/PrimMST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="62" column="50" selection-start-line="62" selection-start-column="50" selection-end-line="62" selection-end-column="50" />
+            <state relative-caret-position="135">
+              <caret line="58" column="7" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#987#988#0" expanded="true" />
@@ -95,10 +95,9 @@
       <file leaf-file-name="KruskalMST.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter__15/src/KruskalMST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+            <state relative-caret-position="375">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="e#323#329#0" expanded="true" />
                 <element signature="e#679#680#0" expanded="true" />
                 <element signature="e#705#706#0" expanded="true" />
@@ -109,20 +108,23 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="timing_test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter__15/src/timing_test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="MinPQ.class" pinned="false" current-in-tab="false">
         <entry file="jar://$USER_HOME$/algs4/algs4.jar!/edu/princeton/cs/algs4/MinPQ.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dataset2.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter_14/dataset2.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -193,16 +195,17 @@
         <option value="$PROJECT_DIR$/chapter__15/src/EdgeWeightedGraph.java" />
         <option value="$PROJECT_DIR$/chapter__15/dataset1.txt" />
         <option value="$PROJECT_DIR$/chapter__15/challenge_dataset.txt" />
-        <option value="$PROJECT_DIR$/chapter__15/src/KruskalMST.java" />
         <option value="$PROJECT_DIR$/chapter__15/src/PrimMST.java" />
+        <option value="$PROJECT_DIR$/chapter__15/src/KruskalMST.java" />
+        <option value="$PROJECT_DIR$/chapter__15/src/timing_test.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="235" />
-    <option name="y" value="259" />
-    <option name="width" value="653" />
-    <option name="height" value="737" />
+    <option name="x" value="64" />
+    <option name="y" value="-4" />
+    <option name="width" value="1303" />
+    <option name="height" value="773" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -307,7 +310,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrimMST">
+  <component name="RunManager" selected="Application.timing_test">
     <configuration name="GreedyDiff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GreedyDiff" />
       <module name="chapter_13" />
@@ -332,14 +335,14 @@
       <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/chapter__15/dataset1.txt" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
     </configuration>
-    <configuration name="RSelect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RSelect" />
-      <module name="chapter_6" />
-      <option name="PROGRAM_PARAMETERS" value="dataset_2.txt" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="timing_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timing_test" />
+      <module name="chapter__15" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/chapter__15/challenge_dataset.txt" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -362,19 +365,19 @@
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
     <list>
-      <item itemvalue="Application.RSelect" />
       <item itemvalue="Application.GreedyDiff" />
       <item itemvalue="Application.GreedyRatio" />
       <item itemvalue="Application.Huffman" />
       <item itemvalue="Application.PrimMST" />
+      <item itemvalue="Application.timing_test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.timing_test" />
         <item itemvalue="Application.PrimMST" />
         <item itemvalue="Application.Huffman" />
         <item itemvalue="Application.GreedyRatio" />
         <item itemvalue="Application.GreedyDiff" />
-        <item itemvalue="Application.RSelect" />
       </list>
     </recent_temporary>
   </component>
@@ -396,13 +399,13 @@
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7898936" visible="true" weight="0.18779343" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7898936" visible="true" weight="0.18779343" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32738096" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.44047618" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44047618" />
       <window_info id="Structure" order="1" sideWeight="0.21010639" side_tool="true" visible="true" weight="0.18779343" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.1904762" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -433,13 +436,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter_11/src/MinPQ.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter_11/src/MaxPQ.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1470">
@@ -790,12 +786,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter__15/src/KruskalMST.java">
+    <entry file="file://$PROJECT_DIR$/chapter__15/dataset1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter__15/src/PrimMST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+        <state relative-caret-position="135">
+          <caret line="58" column="7" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#987#988#0" expanded="true" />
+            <element signature="e#1016#1017#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter__15/src/KruskalMST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
             <element signature="e#323#329#0" expanded="true" />
             <element signature="e#679#680#0" expanded="true" />
             <element signature="e#705#706#0" expanded="true" />
@@ -805,17 +815,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter__15/dataset1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter__15/src/PrimMST.java">
+    <entry file="file://$PROJECT_DIR$/chapter__15/src/timing_test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="62" column="50" selection-start-line="62" selection-start-column="50" selection-end-line="62" selection-end-column="50" />
+        <state relative-caret-position="294">
+          <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#987#988#0" expanded="true" />
-            <element signature="e#1016#1017#0" expanded="true" />
           </folding>
         </state>
       </provider>
