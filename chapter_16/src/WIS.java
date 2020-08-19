@@ -14,5 +14,7 @@ public class WIS {
     public static void main(String[] args) {
         int[] A = {1, 4, 5, 4};
         StdOut.println(compute(A));
+        int[] B = {3, 2, 1, 6, 4, 5};
+        StdOut.println(compute(B));
     }
 }
