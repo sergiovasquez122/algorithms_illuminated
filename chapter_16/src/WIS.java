@@ -60,5 +60,11 @@ public class WIS {
             StdOut.print(" " + v);
         }
         StdOut.println();
+
+        int[] E = {5, 3, 1, 7, 2, 4, 6};
+        StdOut.println(compute(E));
+        for(int v: WISReconstruction(E))
+            StdOut.print(" " + v);
+        StdOut.println();
     }
 }

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6657964-7ffe-4b8f-8252-a47ba1f70d2a" name="Default" comment="" />
+    <list default="true" id="f6657964-7ffe-4b8f-8252-a47ba1f70d2a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/chapter_16/src/WIS.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_16/src/WIS.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,8 +75,8 @@
       <file leaf-file-name="WIS.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter_16/src/WIS.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
+            <state relative-caret-position="293">
+              <caret line="66" column="18" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -170,8 +172,8 @@
         <option value="$PROJECT_DIR$/chapter__15/src/KruskalMST.java" />
         <option value="$PROJECT_DIR$/chapter__15/src/timing_test.java" />
         <option value="$PROJECT_DIR$/chapter_16/dataset1.txt" />
-        <option value="$PROJECT_DIR$/chapter_16/src/WIS.java" />
         <option value="$PROJECT_DIR$/chapter_16/dataset2.txt" />
+        <option value="$PROJECT_DIR$/chapter_16/src/WIS.java" />
       </list>
     </option>
   </component>
@@ -370,6 +372,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="651" height="744" extended-state="4" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7996071" visible="true" weight="0.45047924" />
@@ -771,8 +774,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter_16/src/WIS.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
+        <state relative-caret-position="293">
+          <caret line="66" column="18" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
