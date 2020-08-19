@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6657964-7ffe-4b8f-8252-a47ba1f70d2a" name="Default" comment="" />
+    <list default="true" id="f6657964-7ffe-4b8f-8252-a47ba1f70d2a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +17,7 @@
       <file leaf-file-name="Huffman.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter_14/src/Huffman.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
+            <state relative-caret-position="555">
               <caret line="41" selection-start-line="41" selection-end-line="41" />
               <folding>
                 <element signature="e#566#567#0" expanded="true" />
@@ -27,18 +30,8 @@
       <file leaf-file-name="Edge.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter__15/src/Edge.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="60">
               <caret line="4" selection-start-line="4" selection-end-line="4" />
-              <folding>
-                <element signature="e#288#289#0" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#347#348#0" expanded="true" />
-                <element signature="e#371#372#0" expanded="true" />
-                <element signature="e#590#591#0" expanded="true" />
-                <element signature="e#615#616#0" expanded="true" />
-                <element signature="e#680#681#0" expanded="true" />
-                <element signature="e#700#701#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -46,16 +39,10 @@
       <file leaf-file-name="EdgeWeightedGraph.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter__15/src/EdgeWeightedGraph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
+            <state relative-caret-position="510">
               <caret line="41" selection-start-line="41" selection-end-line="41" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
-                <element signature="e#406#407#0" expanded="true" />
-                <element signature="e#191#192#0" expanded="true" />
-                <element signature="e#214#215#0" expanded="true" />
-                <element signature="e#332#333#0" expanded="true" />
-                <element signature="e#361#362#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,7 +56,7 @@
       <file leaf-file-name="challenge_dataset.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter__15/challenge_dataset.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
+            <state relative-caret-position="32760">
               <caret line="2184" column="13" selection-start-line="2184" selection-start-column="13" selection-end-line="2184" selection-end-column="13" />
             </state>
           </provider>
@@ -78,12 +65,10 @@
       <file leaf-file-name="PrimMST.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter__15/src/PrimMST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="795">
               <caret line="58" column="7" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#987#988#0" expanded="true" />
-                <element signature="e#1016#1017#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -92,15 +77,8 @@
       <file leaf-file-name="KruskalMST.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter__15/src/KruskalMST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
+            <state relative-caret-position="555">
               <caret line="41" selection-start-line="41" selection-end-line="41" />
-              <folding>
-                <element signature="e#323#329#0" expanded="true" />
-                <element signature="e#679#680#0" expanded="true" />
-                <element signature="e#705#706#0" expanded="true" />
-                <element signature="e#819#820#0" expanded="true" />
-                <element signature="e#839#840#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -108,8 +86,8 @@
       <file leaf-file-name="timing_test.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter__15/src/timing_test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="19" column="59" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+            <state relative-caret-position="405">
+              <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -209,7 +187,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,6 +219,11 @@
             <path>
               <item name="algorithms_illuminated" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithms_illuminated" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_16" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms_illuminated" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms_illuminated" type="462c0819:PsiDirectoryNode" />
               <item name="chapter__15" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -254,6 +236,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -395,24 +378,24 @@
     <frame x="65" y="24" width="651" height="744" extended-state="4" />
     <layout>
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.807767" visible="true" weight="0.38338658" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.80582523" visible="true" weight="0.38338658" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32738096" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.44047618" />
-      <window_info id="Structure" order="1" sideWeight="0.19223301" side_tool="true" visible="true" weight="0.38338658" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.19906688" />
+      <window_info id="Structure" order="1" sideWeight="0.19417475" side_tool="true" visible="true" weight="0.38338658" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.19906688" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39583334" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44047618" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39583334" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32738096" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -666,9 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
           <caret line="50" selection-start-line="50" selection-end-line="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -686,9 +666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -696,9 +673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -732,7 +706,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter_14/src/Huffman.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
+        <state relative-caret-position="555">
           <caret line="41" selection-start-line="41" selection-end-line="41" />
           <folding>
             <element signature="e#566#567#0" expanded="true" />
@@ -743,40 +717,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter__15/challenge_dataset.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
+        <state relative-caret-position="32760">
           <caret line="2184" column="13" selection-start-line="2184" selection-start-column="13" selection-end-line="2184" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter__15/src/Edge.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="60">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#590#591#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
-            <element signature="e#680#681#0" expanded="true" />
-            <element signature="e#700#701#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter__15/src/EdgeWeightedGraph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
+        <state relative-caret-position="510">
           <caret line="41" selection-start-line="41" selection-end-line="41" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -793,34 +751,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter__15/src/PrimMST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="795">
           <caret line="58" column="7" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#987#988#0" expanded="true" />
-            <element signature="e#1016#1017#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter__15/src/KruskalMST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
+        <state relative-caret-position="555">
           <caret line="41" selection-start-line="41" selection-end-line="41" />
-          <folding>
-            <element signature="e#323#329#0" expanded="true" />
-            <element signature="e#679#680#0" expanded="true" />
-            <element signature="e#705#706#0" expanded="true" />
-            <element signature="e#819#820#0" expanded="true" />
-            <element signature="e#839#840#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter__15/src/timing_test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="19" column="59" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+        <state relative-caret-position="405">
+          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
