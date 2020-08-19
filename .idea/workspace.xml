@@ -97,8 +97,11 @@
       <file leaf-file-name="WIS.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter_16/src/WIS.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+            <state relative-caret-position="405">
+              <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -373,17 +376,17 @@
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7969152" visible="true" weight="0.45047924" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7996071" visible="true" weight="0.45047924" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32738096" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.44012442" />
-      <window_info id="Structure" order="1" sideWeight="0.20308483" side_tool="true" visible="true" weight="0.45047924" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.20839813" />
+      <window_info id="Structure" order="1" sideWeight="0.20039293" side_tool="true" visible="true" weight="0.45047924" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.20839813" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39502332" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3934681" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -413,7 +416,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/chapter_16/src/WIS.java</url>
-          <line>10</line>
+          <line>11</line>
           <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
@@ -772,8 +775,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter_16/src/WIS.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        <state relative-caret-position="405">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
