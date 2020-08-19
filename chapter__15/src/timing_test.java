@@ -30,8 +30,10 @@ public class timing_test {
         StdOut.println("Edge weight cost: " + primMST.weight());
         // the exercise seems to show that PrimMST runs faster than Kruskal's
         /**
+         * produced by Kruskal's
          * 0.04
          * Edge weight cost: -3612829.0
+         * produced by Prim's
          * 0.007
          * Edge weight cost: -3612829.0
          */
