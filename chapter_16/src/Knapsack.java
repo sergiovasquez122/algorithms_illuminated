@@ -59,5 +59,13 @@ public class Knapsack {
             weights[i] = in.readInt();
         }
         StdOut.println(knapsack(values, weights, knapsackSize));
+
+        int[] exercise4Values = {1, 2, 3, 4, 5};
+        int[] exercise4Weights = {1, 3, 2, 5, 4};
+        StdOut.println(knapsack(exercise4Values, exercise4Weights, 9));
+        for(int e : knapsackReconstruction(exercise4Values, exercise4Weights, 9)){
+            StdOut.print(" " + e);
+        }
+        StdOut.println();
     }
 }
