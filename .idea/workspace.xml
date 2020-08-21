@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6657964-7ffe-4b8f-8252-a47ba1f70d2a" name="Default" comment="" />
+    <list default="true" id="f6657964-7ffe-4b8f-8252-a47ba1f70d2a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_17/src/NW.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_17/src/NW.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,16 +71,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NW.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="NW.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter_17/src/NW.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="75">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dataset1.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dataset1.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter_17/dataset1.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
@@ -121,6 +127,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>en]jj</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -177,16 +188,16 @@
         <option value="$PROJECT_DIR$/chapter_16/src/WIS.java" />
         <option value="$PROJECT_DIR$/chapter_16/dataset3.txt" />
         <option value="$PROJECT_DIR$/chapter_16/src/Knapsack.java" />
-        <option value="$PROJECT_DIR$/chapter_17/src/NW.java" />
         <option value="$PROJECT_DIR$/chapter_17/dataset1.txt" />
+        <option value="$PROJECT_DIR$/chapter_17/src/NW.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="65" />
-    <option name="y" value="24" />
-    <option name="width" value="651" />
-    <option name="height" value="744" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="333" />
+    <option name="y" value="-4" />
+    <option name="width" value="653" />
+    <option name="height" value="737" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -302,17 +313,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Knapsack">
-    <configuration name="Huffman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Huffman" />
-      <module name="chapter_14" />
-      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/chapter_14/dataset3.txt" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/chapter_14/" />
-    </configuration>
+  <component name="RunManager" selected="Application.NW">
     <configuration name="Knapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Knapsack" />
       <module name="chapter_16" />
       <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/chapter_16/dataset3.txt" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="NW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NW" />
+      <module name="chapter_17" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/chapter_17/dataset1.txt" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
     </configuration>
     <configuration name="PrimMST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -357,19 +368,19 @@
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
     <list>
-      <item itemvalue="Application.Huffman" />
       <item itemvalue="Application.PrimMST" />
       <item itemvalue="Application.timing_test" />
       <item itemvalue="Application.WIS" />
       <item itemvalue="Application.Knapsack" />
+      <item itemvalue="Application.NW" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NW" />
         <item itemvalue="Application.Knapsack" />
         <item itemvalue="Application.WIS" />
         <item itemvalue="Application.timing_test" />
         <item itemvalue="Application.PrimMST" />
-        <item itemvalue="Application.Huffman" />
       </list>
     </recent_temporary>
   </component>
@@ -387,24 +398,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="651" height="744" extended-state="4" />
+    <frame x="64" y="-4" width="1303" height="773" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.79457366" visible="true" weight="0.3434505" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7755682" visible="true" weight="0.1682316" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32738096" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info id="Structure" order="1" sideWeight="0.20542635" side_tool="true" visible="true" weight="0.3434505" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.19751166" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47619048" />
+      <window_info id="Structure" order="1" sideWeight="0.22443181" side_tool="true" visible="true" weight="0.1682316" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.18898809" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3764881" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.47744945" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32738096" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3764881" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -800,17 +812,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_17/src/NW.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter_17/dataset1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="123" selection-start-line="3" selection-start-column="123" selection-end-line="3" selection-end-column="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_17/src/NW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
