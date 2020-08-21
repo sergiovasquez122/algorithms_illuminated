@@ -1,5 +1,5 @@
 public class NW {
-    public static int NWAlgorithm(String X, String Y){
+    public static int NWAlgorithm(String X, String Y, int gapCost, int mismatchCost){
         int[][] A = new int[X.length() + 1][Y.length() + 1];
         int m = X.length(), n = Y.length();
         for(int i = 0;i < m;i++)
@@ -12,9 +12,9 @@ public class NW {
                 char t = Y.charAt(j - 1);
                 int cost = 0;
                 if(c != t){
-                    cost += 2;
+                    cost += mismatchCost;
                 }
-                A[i][j] = Math.min(A[i - 1][j - 1] + cost, Math.min(A[i - 1][j] + 1, A[i][j - 1] + 1));
+                A[i][j] = Math.min(A[i - 1][j - 1] + cost, Math.min(A[i - 1][j] + gapCost, A[i][j - 1] + gapCost));
             }
         }
         return A[m][n];
