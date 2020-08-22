@@ -1,5 +1,6 @@
 public class BellmanFordSP {
     private double [] distTo;
+    private boolean hasNegativeCycle = false;
 
     public BellmanFordSP(EdgeWeightedDigraph G, int s){
         distTo = new double[G.V()];
@@ -26,5 +27,9 @@ public class BellmanFordSP {
 
     public boolean hasPathTo(int v){
         return distTo[v] < Double.POSITIVE_INFINITY;
+    }
+
+    public boolean hasNegativeCycle(){
+        return hasNegativeCycle;
     }
 }
