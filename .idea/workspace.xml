@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6657964-7ffe-4b8f-8252-a47ba1f70d2a" name="Default" comment="" />
+    <list default="true" id="f6657964-7ffe-4b8f-8252-a47ba1f70d2a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/chapter_18/dataset1.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,18 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="timing_test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter__15/src/timing_test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="WIS.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter_16/src/WIS.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -59,11 +49,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OptBST.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OptBST.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter_17/src/OptBST.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dataset1.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter_18/dataset1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -133,7 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chapter_11/small_dataset.txt" />
         <option value="$PROJECT_DIR$/chapter_11/src/MinPQ.java" />
         <option value="$PROJECT_DIR$/chapter_11/large_dataset.txt" />
         <option value="$PROJECT_DIR$/chapter_11/src/MedianMaintenance.java" />
@@ -184,6 +182,7 @@
         <option value="$PROJECT_DIR$/chapter_17/src/NW.java" />
         <option value="$PROJECT_DIR$/chapter_17/dataset2.txt" />
         <option value="$PROJECT_DIR$/chapter_17/src/OptBST.java" />
+        <option value="$PROJECT_DIR$/chapter_18/dataset1.txt" />
       </list>
     </option>
   </component>
@@ -398,15 +397,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="651" height="744" extended-state="4" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7926357" visible="true" weight="0.3434505" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7926357" visible="true" weight="0.3434505" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" sideWeight="0.20736434" side_tool="true" visible="true" weight="0.3434505" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.19751166" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.19751166" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -466,13 +466,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter_11/src/MaxPQ.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1470">
-          <caret line="108" column="1" selection-start-line="108" selection-start-column="1" selection-end-line="108" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter_11/src/MinPQ.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -831,6 +824,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_18/dataset1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
         </state>
       </provider>
     </entry>
