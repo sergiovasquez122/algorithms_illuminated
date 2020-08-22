@@ -20,5 +20,11 @@ public class BellmanFordSP {
         }
     }
 
+    public double distTo(int v){
+       return distTo[v];
+    }
 
+    public boolean hasPathTo(int v){
+        return distTo[v] < Double.POSITIVE_INFINITY;
+    }
 }
