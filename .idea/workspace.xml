@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6657964-7ffe-4b8f-8252-a47ba1f70d2a" name="Default" comment="" />
+    <list default="true" id="f6657964-7ffe-4b8f-8252-a47ba1f70d2a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,15 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="KruskalMST.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter__15/src/KruskalMST.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="timing_test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter__15/src/timing_test.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -47,7 +40,7 @@
       <file leaf-file-name="Knapsack.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter_16/src/Knapsack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
+            <state relative-caret-position="375">
               <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -56,10 +49,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NW.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NW.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter_17/src/NW.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
+            <state relative-caret-position="420">
               <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -68,11 +61,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="OptBST.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter_17/src/OptBST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="dataset2.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter_17/dataset2.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="116" selection-start-line="1" selection-start-column="116" selection-end-line="1" selection-end-column="116" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -133,7 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chapter_11/src/MaxPQ.java" />
         <option value="$PROJECT_DIR$/chapter_11/small_dataset.txt" />
         <option value="$PROJECT_DIR$/chapter_11/src/MinPQ.java" />
         <option value="$PROJECT_DIR$/chapter_11/large_dataset.txt" />
@@ -184,6 +185,7 @@
         <option value="$PROJECT_DIR$/chapter_17/dataset1.txt" />
         <option value="$PROJECT_DIR$/chapter_17/src/NW.java" />
         <option value="$PROJECT_DIR$/chapter_17/dataset2.txt" />
+        <option value="$PROJECT_DIR$/chapter_17/src/OptBST.java" />
       </list>
     </option>
   </component>
@@ -198,6 +200,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -218,7 +221,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -395,24 +397,24 @@
     <frame x="65" y="24" width="651" height="744" extended-state="4" />
     <layout>
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.79457366" visible="true" weight="0.3434505" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7926357" visible="true" weight="0.3434505" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32738096" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.47619048" />
-      <window_info id="Structure" order="1" sideWeight="0.20542635" side_tool="true" visible="true" weight="0.3434505" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.19751166" />
+      <window_info id="Structure" order="1" sideWeight="0.20736434" side_tool="true" visible="true" weight="0.3434505" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.19751166" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3764881" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.47619048" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3764881" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32738096" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -461,13 +463,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter_11/src/AVLTreeST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2520">
-          <caret line="196" selection-start-line="196" selection-end-line="196" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter_11/src/MaxPQ.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1470">
@@ -744,9 +739,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="795">
           <caret line="58" column="7" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -800,7 +792,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter_16/src/Knapsack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
+        <state relative-caret-position="375">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -815,20 +807,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_17/dataset2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="116" selection-start-line="1" selection-start-column="116" selection-end-line="1" selection-end-column="116" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter_17/src/NW.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
+        <state relative-caret-position="420">
           <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_17/dataset2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_17/src/OptBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
