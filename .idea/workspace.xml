@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6657964-7ffe-4b8f-8252-a47ba1f70d2a" name="Default" comment="" />
+    <list default="true" id="f6657964-7ffe-4b8f-8252-a47ba1f70d2a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/chapter_18/src/BellmanFordSP.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_18/src/BellmanFordSP.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,11 +79,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EdgeWeightedDigraph.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="EdgeWeightedDigraph.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter_18/src/EdgeWeightedDigraph.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
               <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BellmanFordSP.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter_18/src/BellmanFordSP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -91,15 +102,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dataset1.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter_17/dataset1.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="123" selection-start-line="3" selection-start-column="123" selection-end-line="3" selection-end-column="123" />
             </state>
           </provider>
         </entry>
@@ -124,7 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chapter_11/large_dataset.txt" />
         <option value="$PROJECT_DIR$/chapter_11/src/MedianMaintenance.java" />
         <option value="$PROJECT_DIR$/SCC/DiGraph.java" />
         <option value="$PROJECT_DIR$/SCC/Digraph.java" />
@@ -175,14 +176,15 @@
         <option value="$PROJECT_DIR$/chapter_17/src/OptBST.java" />
         <option value="$PROJECT_DIR$/chapter_18/dataset1.txt" />
         <option value="$PROJECT_DIR$/chapter_18/dataset2.txt" />
+        <option value="$PROJECT_DIR$/chapter_18/src/BellmanFordSP.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="65" />
-    <option name="y" value="24" />
-    <option name="width" value="651" />
-    <option name="height" value="744" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="21" />
+    <option name="y" value="-33" />
+    <option name="width" value="653" />
+    <option name="height" value="737" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -403,6 +405,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="651" height="744" extended-state="4" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7926357" visible="true" weight="0.44089457" />
@@ -471,13 +474,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter_10/DirectedEdge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter_12/Two_Sum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -836,6 +832,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_18/src/BellmanFordSP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
         </state>
       </provider>
     </entry>
