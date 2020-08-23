@@ -13,9 +13,19 @@ public class BellmanFordSP {
             for (int v = 0; v < G.V(); v++) {
                 for (DirectedEdge e : G.adj(v)) {
                     int from = e.from(), to = e.to();
-                    if(distTo[to] > distTo[from] + e.weight()){
+                    if(distTo[from] != Double.POSITIVE_INFINITY && distTo[to] > distTo[from] + e.weight()){
                         distTo[to] = distTo[from] + e.weight();
                     }
+                }
+            }
+        }
+
+        for (int v = 0; v < G.V(); v++) {
+            for (DirectedEdge e : G.adj(v)) {
+                int from = e.from(), to = e.to();
+                if(distTo[from] != Double.POSITIVE_INFINITY && distTo[to] > distTo[from] + e.weight()){
+                    distTo[to] = distTo[from] + e.weight();
+                    hasNegativeCycle = true;
                 }
             }
         }
