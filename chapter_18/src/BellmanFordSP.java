@@ -1,3 +1,5 @@
+import edu.princeton.cs.algs4.In;
+
 public class BellmanFordSP {
     private double [] distTo;
     private boolean hasNegativeCycle = false;
@@ -41,5 +43,17 @@ public class BellmanFordSP {
 
     public boolean hasNegativeCycle(){
         return hasNegativeCycle;
+    }
+
+    public static void main(String[] args) {
+        In in = new In(args[0]);
+        int V = in.readInt(), E = in.readInt();
+        EdgeWeightedDigraph G = new EdgeWeightedDigraph(V);
+        while(in.hasNextLine()){
+            int u = in.readInt() - 1, v = in.readInt() - 1, weight = in.readInt();
+            G.addEdge(new DirectedEdge(u, v, weight));
+        }
+
+
     }
 }
