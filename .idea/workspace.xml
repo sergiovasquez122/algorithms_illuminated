@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6657964-7ffe-4b8f-8252-a47ba1f70d2a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/chapter_18/src/BellmanFordSP.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_18/src/BellmanFordSP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/chapter_18/BellmanFordSP.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/chapter_18/BellmanFordSP.class" afterDir="false" />
-    </list>
+    <list default="true" id="f6657964-7ffe-4b8f-8252-a47ba1f70d2a" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,8 +89,8 @@
       <file leaf-file-name="BellmanFordSP.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter_18/src/BellmanFordSP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+            <state relative-caret-position="392">
+              <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#696#697#0" expanded="true" />
@@ -418,15 +415,15 @@
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7755682" visible="true" weight="0.15727699" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.79266053" visible="true" weight="0.15727699" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32738096" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47619048" />
-      <window_info id="Structure" order="1" sideWeight="0.22443181" side_tool="true" visible="true" weight="0.15727699" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.18898809" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.47619048" />
+      <window_info id="Structure" order="1" sideWeight="0.20733945" side_tool="true" visible="true" weight="0.15727699" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.18898809" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3764881" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -847,8 +844,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter_18/src/BellmanFordSP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+        <state relative-caret-position="392">
+          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#696#697#0" expanded="true" />
