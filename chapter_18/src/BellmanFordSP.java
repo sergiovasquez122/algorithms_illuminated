@@ -1,4 +1,5 @@
 import edu.princeton.cs.algs4.In;
+import edu.princeton.cs.algs4.StdOut;
 
 public class BellmanFordSP {
     private double [] distTo;
@@ -53,7 +54,19 @@ public class BellmanFordSP {
             int u = in.readInt() - 1, v = in.readInt() - 1, weight = in.readInt();
             G.addEdge(new DirectedEdge(u, v, weight));
         }
+        BellmanFordSP[] shortestPaths = new BellmanFordSP[G.V()];
+        for(int i  = 0;i < G.V();i++)
+            shortestPaths[i] = new BellmanFordSP(G, i);
 
-
+        double shortestDistance = Double.POSITIVE_INFINITY;
+        boolean hasNegativeCycle = false;
+        for(int i = 0;i < shortestPaths.length && !hasNegativeCycle;i++) {
+            for (int v = 0; v < G.V(); v++) {
+                hasNegativeCycle = shortestPaths[i].hasNegativeCycle();
+                if(v != i) shortestDistance = Double.min(shortestDistance, shortestPaths[i].distTo(v));
+            }
+        }
+        StdOut.println("Has negative cycle: " + hasNegativeCycle);
+        StdOut.println("Shortest shortest path cost: " + shortestDistance);
     }
 }
